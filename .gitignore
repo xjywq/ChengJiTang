@@ -1,0 +1,15 @@
+# python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.ipynb_checkpoints/
+venv/
+env/
